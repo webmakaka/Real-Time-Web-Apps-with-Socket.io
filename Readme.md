@@ -6,6 +6,8 @@
 
 <br/>
 
+### 02. Creating a New Project
+
     $ npm install --save nodemon
     $ npm install --save express
     
@@ -15,10 +17,21 @@ or
 
     $ npm start
     
+<br/>
+
+### 03. Adding Socket.io to an App
     
+    $ npm install --save socket.io
     
+    $ nodemon server/server.js
     
-    
+http://localhost:3000/socket.io/socket.io.js
+
+
+
+
+<br/>
+
 ___
 
 **Marley**
