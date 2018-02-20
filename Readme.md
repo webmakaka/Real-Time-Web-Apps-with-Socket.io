@@ -44,6 +44,16 @@ in browser console:
 
     socket.emit('createMessage', {from: 'Andrew', text: 'This should work!'});
 
+
+<br/>
+
+### 07. Message Generator & Tests
+
+    $ npm install --save-dev expect mocha
+    $ npm test
+    
+    $ nodemon server/server.js
+
 <br/>
 
 ___
