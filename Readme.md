@@ -70,6 +70,13 @@ in browser console:
 
 ### 11. Geolocation Part II
 
+    $ npm test
+
+<br/>
+
+### 12. Styling The Chat Page
+
+
 
 
 
