@@ -56,6 +56,8 @@ in browser console:
 
 <br/>
 
+### 08. Event Acknowledgements
+
 ___
 
 **Marley**
