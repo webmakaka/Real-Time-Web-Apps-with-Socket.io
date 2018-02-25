@@ -97,6 +97,9 @@ https://github.com/janl/mustache.js/blob/greenkeeper-mocha-2.3.3/mustache.js
 
 ### 16. Autoscrolling
 
+<br/>
+
+### 17. Adding a Join Page
 
 
 
