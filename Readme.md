@@ -129,8 +129,11 @@ chrome dev console:
 
     $ npm test    
     
+<br/>
     
+### 21. Storing Users With ES6 Classes - Part II
     
+    $ npm run test-watch
     
     
     
