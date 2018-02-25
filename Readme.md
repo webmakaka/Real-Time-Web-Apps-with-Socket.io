@@ -121,6 +121,18 @@ chrome dev console:
 ### 19. Socket.io Rooms
 
 
+<br/>
+    
+### 20. Storing Users With ES6 Classes - Part I
+    
+<br/>
+
+    $ npm test    
+    
+    
+    
+    
+    
     
     
 ___
