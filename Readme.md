@@ -76,7 +76,15 @@ in browser console:
 
 ### 12. Styling The Chat Page
 
+<br/>
 
+### 13. Timestamps and Formatting with Moment
+
+    $ npm install --save moment
+    
+<br/>
+
+### 14. Printing Message Timestamps
 
 
 
