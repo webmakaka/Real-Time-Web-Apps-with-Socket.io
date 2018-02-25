@@ -86,12 +86,19 @@ in browser console:
 
 ### 14. Printing Message Timestamps
 
-
 <br/>
 
 ### 15. Moustache.js
 
 https://github.com/janl/mustache.js/blob/greenkeeper-mocha-2.3.3/mustache.js
+
+
+<br/>
+
+### 16. Autoscrolling
+
+
+
 
 
 
