@@ -101,10 +101,24 @@ https://github.com/janl/mustache.js/blob/greenkeeper-mocha-2.3.3/mustache.js
 
 ### 17. Adding a Join Page
 
+<br/>
 
+### 18. Passing Room Data
 
+https://gist.github.com/andrewjmead/b71e03d8df237983285892f9a265d401
 
+chrome dev console: 
 
+    jQuery.deparam;
+    jQuery.deparam(window.location.search);
+
+<br/>
+
+    $ npm test
+    
+    
+    
+    
 ___
 
 **Marley**
