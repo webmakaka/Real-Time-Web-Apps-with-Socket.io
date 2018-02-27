@@ -143,6 +143,16 @@ chrome dev console:
 <br/>
     
 ### 23. Sending Messages To Room Only
+
+
+
+<br/>
+
+**Results:**
+
+![Application](/img/img1.png?raw=true)
+
+![Application](/img/img2.png?raw=true)
     
 ___
 
